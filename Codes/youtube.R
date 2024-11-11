@@ -7,7 +7,7 @@ library(vosonSML)
 
 options(stringsAsFactors = FALSE) # setting strings as characters so that they appear as they were in the dataset
 
-youtube_auth <- Authenticate("youtube", apiKey = "AIzaSyBIZcKqKB47tlZr9DkkBUvuRw4AzV-HAc0", ) #Activating your youtube API
+youtube_auth <- Authenticate("youtube", apiKey = "your API", ) #Activating your youtube API
 
 galampsey = c("71hNxnjAfn0", "frJhTkX3E6M", "kj2S5RcfvKc", "1b4C3ORyDR4", "WGhU8s2wp_Q","fCulR9-6AV8", "Yuy-ScBotvA",
               "u7oOUwroT0o", "Pq3QkXD_g18","n87dumuGbI", "caGclk8yEHk", 
